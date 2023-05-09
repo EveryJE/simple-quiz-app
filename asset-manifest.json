@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-quiz-app/static/css/main.25915ccf.css",
+    "main.js": "/simple-quiz-app/static/js/main.d78e5067.js",
+    "static/media/background.png": "/simple-quiz-app/static/media/background.6537e74cbc7014533460.png",
+    "index.html": "/simple-quiz-app/index.html",
+    "main.25915ccf.css.map": "/simple-quiz-app/static/css/main.25915ccf.css.map",
+    "main.d78e5067.js.map": "/simple-quiz-app/static/js/main.d78e5067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25915ccf.css",
+    "static/js/main.d78e5067.js"
+  ]
+}
